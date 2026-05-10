@@ -26,4 +26,4 @@ Dann [http://localhost:5000](http://localhost:5000) öffnen.
 
 ---
 
-## Choose kindness. Alwyays <3
+#### Choose kindness. Always <3
