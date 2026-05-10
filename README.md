@@ -26,14 +26,4 @@ Dann [http://localhost:5000](http://localhost:5000) öffnen.
 
 ---
 
-## 🎯 Ziel
-
-Dieses Repository soll eine Sammlung von praxisnahen Implementierungen sein, die Entwicklern den Einstieg in verschiedene APIs erleichtern.
-
-## 🤝 Mitwirken
-
-Pull Requests sind willkommen! Für größere Änderungen bitte zuerst ein Issue erstellen, um die Änderungen abzustimmen.
-
-## 📄 Lizenz
-
-Alle Projekte in diesem Repository unterliegen der [MIT License](LICENSE).
+## Choose kindness. Alwyays <3
