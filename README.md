@@ -1,10 +1,4 @@
-# super-octo-bassoon
-
-Eine Sammlung von Starter-Kits, Beispielen und nützlichen Code-Snippets für verschiedene APIs und Dienste.
-
-## 📦 Projekte
-
-### [Strava OAuth2 Starter Kit](./strava-oauth2-starter)
+# [Strava OAuth2 Starter Kit](./strava-oauth2-starter)
 
 Ein kompaktes, einsatzbereites Starter-Kit mit komplettem OAuth2-Flow für die Strava API inklusive automatischem Token-Refresh.
 
