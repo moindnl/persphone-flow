@@ -6,7 +6,7 @@ Eine Sammlung von Starter-Kits, Beispielen und nützlichen Code-Snippets für ve
 
 ### [Strava OAuth2 Starter Kit](./strava-oauth2-starter)
 
-Ein kompaktes, einsatzbereites Projekt mit komplettem OAuth2-Flow für die Strava API inklusive automatischem Token-Refresh.
+Ein kompaktes, einsatzbereites Starter-Kit mit komplettem OAuth2-Flow für die Strava API inklusive automatischem Token-Refresh.
 
 **Features:**
 - ✅ Authorization Code Grant Flow
