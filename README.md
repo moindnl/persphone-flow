@@ -1,4 +1,4 @@
-# [Strava OAuth2 Starter Kit](./strava-oauth2-starter)
+# Strava OAuth2 Starter Kit
 
 A compact, ready-to-use starter kit with a complete OAuth2 flow for the Strava API, including automatic token refresh.
 
