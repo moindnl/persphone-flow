@@ -1,29 +1,28 @@
 # [Strava OAuth2 Starter Kit](./strava-oauth2-starter)
 
-Ein kompaktes, einsatzbereites Starter-Kit mit komplettem OAuth2-Flow für die Strava API inklusive automatischem Token-Refresh.
+A compact, ready-to-use starter kit with a complete OAuth2 flow for the Strava API, including automatic token refresh.
 
 **Features:**
 - ✅ Authorization Code Grant Flow
-- ✅ Automatischer Token-Refresh mit Puffer (60s)
-- ✅ Flask Webserver mit Demo-UI
-- ✅ Profil- und Aktivitäten-Ansicht
-- ✅ Environment Variable Konfiguration
-- ✅ Docker-Ready
+- ✅ Automatic token refresh with buffer (60s)
+- ✅ Flask web server with demo UI
+- ✅ Profile and activities view
+- ✅ Environment variable configuration
+- ✅ Docker-ready
 
-**Schnellstart:**
+**Quick Start:**
 
 ```bash
 cd strava-oauth2-starter
 pip install -r requirements.txt
 cp .env.example .env
-# .env mit deinen Strava Credentials füllen
+# Fill .env with your Strava credentials
 python app.py
 ```
 
-Dann [http://localhost:5000](http://localhost:5000) öffnen.
+Then open [http://localhost:5000](http://localhost:5000).
 
-**Strava App erstellen:** [https://www.strava.com/settings/api](https://www.strava.com/settings/api)
+**Create a Strava App:** [https://www.strava.com/settings/api](https://www.strava.com/settings/api)
 
 ---
-
 #### Choose kindness. Always <3
